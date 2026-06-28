@@ -12,13 +12,13 @@ Summer Projects '26 program.
 |---|---|
 | Decoding Customer Value - Problem Statement.pdf | Problem Statement |
 | Dataset.csv | Provided dataset (3,900 rows x 18 cols) |
-| deliverable_1.ipynb | Data cleaning & feature engineering |
+| Deliverable 1.ipynb | Data cleaning & feature engineering |
 | final.csv | Engineered dataset (3,780 rows × 28 cols) |
-| Deliverable_2.ipynb | SQL analysis (DuckDB) |
-| Dashboard_final.pbix | Power BI dashboard (open in Power BI Desktop) |
-| Dashboard_Preview.png | Power BI dashboard Screenshot Preview |
+| Deliverable 2.ipynb | SQL analysis (DuckDB) |
+| Dashboard final.pbix | Power BI dashboard (open in Power BI Desktop) |
+| Dashboard Preview.png | Power BI dashboard Screenshot Preview |
 | Retention Playbook.pdf | Business Recommendations |
-| executive_summary.pdf | One-page project summary |
+| Executive Summary.pdf | One-page project summary |
 
 ### Central Finding
 The brand's two loyal segments are statistically indistuingishable- same value, same consistency, same spend- except one pays full price and the other receives a discount on every order. Most of the discount budget is subsidzing loyalty that the brand has ready won.
