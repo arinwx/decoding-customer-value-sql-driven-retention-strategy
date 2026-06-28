@@ -10,7 +10,7 @@ Summer Projects '26 program.
 ### Project Structure
 | File | Description |
 |---|---|
-| Decoding Customer Value | Problem Statement |
+| Decoding Customer Value - Problem Statement.pdf | Problem Statement |
 | Dataset.csv | Provided dataset (3,900 rows x 18 cols) |
 | deliverable_1.ipynb | Data cleaning & feature engineering |
 | final.csv | Engineered dataset (3,780 rows × 28 cols) |
